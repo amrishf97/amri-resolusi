@@ -1,8 +1,10 @@
 RENCANA KONTEN AMRI
 - PHP
+ ^ Laravel
 - PYTHON
 - LARAVEL
 - CSS HTML JAVASCRIPT
   * ES6
   * Framework Javascript
-- MATERI STRUKTUR DATA DASAR
+   ^ Angular
+   ^ React
