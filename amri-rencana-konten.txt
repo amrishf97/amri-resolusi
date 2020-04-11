@@ -3,3 +3,5 @@ RENCANA KONTEN AMRI
 - PYTHON
 - LARAVEL
 - CSS HTML JAVASCRIPT
+  * ES6
+  * Framework Javascript
