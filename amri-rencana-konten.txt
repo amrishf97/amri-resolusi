@@ -5,4 +5,7 @@ RENCANA KONTEN AMRI
 - CSS HTML JAVASCRIPT
   * ES6
   * Framework Javascript
+   ^ Vue
+   ^ React Native
 - MATERI STRUKTUR DATA DASAR
+- CODEIGNITER
