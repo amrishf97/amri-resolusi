@@ -1,0 +1,7 @@
+RENCANA KONTEN AMRI
+- PHP
+- PYTHON
+- LARAVEL
+- CSS HTML JAVASCRIPT
+  * ES6
+  * Framework Javascript
